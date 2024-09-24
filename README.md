@@ -1,7 +1,8 @@
-# Animal names
-1) Lion
-2) Tiger
-3) Elephant
-4) Giraffe
-5) Zebra
+# Fruits name
+1) Apple
+2) Orange
+3) Banana
+4) Grapes
+5) Strawberry
+6) Mango
 
